@@ -1,0 +1,32 @@
+.headline {
+	font-family: Source Sans Pro;
+	text-align: center;
+	font-size:32px;
+}
+table {
+	text-align: right;
+	margin:auto;
+	margin-top: 40px;
+	background-color: white;
+	font-family: Source Sans Pro;
+	font-size: 18px;
+}
+.product {
+	text-align: left;
+	
+}
+th {
+	text-align: right;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.dallas {
+	text-align: right;
+}
+img {
+	height:20px;
+	width:20px;
+}
+.denver {
+	margin-top: 100px;
+}
